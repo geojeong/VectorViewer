@@ -1,2 +1,2 @@
 # VectorViewer
-shp, gpkg, geojson interacitve viewer
+<img src="icon.png" width="128">
